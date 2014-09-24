@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9724A35219D3157C00587678 /* TextStatsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9724A35119D3157C00587678 /* TextStatsViewController.swift */; };
 		97B63E4019D24CB700CDC8B7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97B63E3F19D24CB700CDC8B7 /* AppDelegate.swift */; };
 		97B63E4219D24CB700CDC8B7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97B63E4119D24CB700CDC8B7 /* ViewController.swift */; };
 		97B63E4519D24CB700CDC8B7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97B63E4319D24CB700CDC8B7 /* Main.storyboard */; };
@@ -26,6 +27,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9724A35119D3157C00587678 /* TextStatsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextStatsViewController.swift; sourceTree = "<group>"; };
 		97B63E3A19D24CB700CDC8B7 /* labeltest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = labeltest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		97B63E3E19D24CB700CDC8B7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		97B63E3F19D24CB700CDC8B7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -78,6 +80,7 @@
 			isa = PBXGroup;
 			children = (
 				97B63E4119D24CB700CDC8B7 /* ViewController.swift */,
+				9724A35119D3157C00587678 /* TextStatsViewController.swift */,
 				97B63E4319D24CB700CDC8B7 /* Main.storyboard */,
 				97B63E3D19D24CB700CDC8B7 /* Supporting Files */,
 			);
@@ -214,6 +217,7 @@
 			files = (
 				97B63E4219D24CB700CDC8B7 /* ViewController.swift in Sources */,
 				97B63E4019D24CB700CDC8B7 /* AppDelegate.swift in Sources */,
+				9724A35219D3157C00587678 /* TextStatsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -405,6 +409,7 @@
 				97B63E5B19D24CB700CDC8B7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		97B63E5C19D24CB700CDC8B7 /* Build configuration list for PBXNativeTarget "labeltestTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +418,7 @@
 				97B63E5E19D24CB700CDC8B7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
