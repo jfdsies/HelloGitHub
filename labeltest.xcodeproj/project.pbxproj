@@ -77,11 +77,8 @@
 		97B63E3C19D24CB700CDC8B7 /* labeltest */ = {
 			isa = PBXGroup;
 			children = (
-				97B63E3F19D24CB700CDC8B7 /* AppDelegate.swift */,
 				97B63E4119D24CB700CDC8B7 /* ViewController.swift */,
 				97B63E4319D24CB700CDC8B7 /* Main.storyboard */,
-				97B63E4619D24CB700CDC8B7 /* Images.xcassets */,
-				97B63E4819D24CB700CDC8B7 /* LaunchScreen.xib */,
 				97B63E3D19D24CB700CDC8B7 /* Supporting Files */,
 			);
 			path = labeltest;
@@ -90,6 +87,9 @@
 		97B63E3D19D24CB700CDC8B7 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				97B63E3F19D24CB700CDC8B7 /* AppDelegate.swift */,
+				97B63E4619D24CB700CDC8B7 /* Images.xcassets */,
+				97B63E4819D24CB700CDC8B7 /* LaunchScreen.xib */,
 				97B63E3E19D24CB700CDC8B7 /* Info.plist */,
 			);
 			name = "Supporting Files";
